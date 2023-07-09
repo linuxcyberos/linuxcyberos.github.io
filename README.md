@@ -1,2 +1,2 @@
-# linuxcyberos.github.io
+# Linux CyberOS Website
 Linux CyberOS Website
